@@ -35,34 +35,37 @@
 - **Evitar:** [ex: 13h-16h — foco em produção]
 - **Melhor período:** [ex: Manhã (planejamento) e noite (revisão)]
 
-### Desafios Pessoais
-- [DESAFIO 1: ex: TDAH — preciso de lembretes proativos]
-- [DESAFIO 2: ex: Sobrecarga de mensagens — ajude a priorizar]
-- [DESAFIO 3: ex: Procrastinação em tarefas administrativas]
+### Desafios e Pontos Cegos
 
-## Prioridades de Ajuda
+Onde eu costumo travar ou precisar de ajuda extra:
 
-1. **PRINCIPAL:** [ex: Ideias e produção de conteúdo]
-2. [PRIORIDADE 2: ex: Lembretes proativos]
-3. [PRIORIDADE 3: ex: Organização e planejamento]
-4. [PRIORIDADE 4: ex: Pesquisa de mercado]
+- [DESAFIO 1: ex: Tomo decisão rápida demais sem analisar dados — me lembre de verificar métricas]
+- [DESAFIO 2: ex: Acumulo tarefas operacionais e esqueço de delegar — me ajude a priorizar]
+- [DESAFIO 3: ex: Não leio todos os emails — filtre e destaque só o que importa]
+- [PONTO CEGO: ex: Subestimo o tempo de execução — adicione 30% ao meu estimado]
 
-## Stack & Ferramentas
+## Contexto de Decisões Importantes
 
-### Que já uso
-- [FERRAMENTA 1: ex: Notion (organização)]
-- [FERRAMENTA 2: ex: Google Workspace]
-- [FERRAMENTA 3: ex: Slack]
+Decisões tomadas que o agente precisa saber para não questionar:
 
-### Que quero integrar
-- [INTEGRAÇÃO 1: ex: YouTube (analytics)]
-- [INTEGRAÇÃO 2: ex: CRM]
+- **[DECISÃO 1]:** [ex: Usamos apenas ferramentas que exportam dados — nada proprietário sem API]
+- **[DECISÃO 2]:** [ex: Produto A está em modo de sustentação — não investir mais]
+- **[DECISÃO 3]:** [ex: Não aceito reuniões às sextas-feiras]
 
-## Família & Contexto Pessoal (opcional)
+## Integrações Disponíveis
 
-[SE RELEVANTE: informações sobre família, rotina pessoal, compromissos fixos que o agente deve saber]
+Ferramentas e contas que o agente tem acesso:
 
----
+| Ferramenta | Acesso | Observação |
+|-----------|--------|------------|
+| [ex: Gmail] | [ex: Leitura e envio] | [ex: Só responde com minha aprovação] |
+| [ex: Google Calendar] | [ex: Leitura] | [ex: Calendário principal + trabalho] |
+| [ex: Notion] | [ex: Leitura e escrita] | [ex: Workspace de projetos] |
+| [ex: Slack] | [ex: Leitura e envio] | [ex: Canais: #geral, #ops, #produto] |
 
-*Quanto mais contexto aqui, melhor o agente te atende.*
-*Atualizado: [DATA]*
+## O Que Jamais Fazer
+
+- ❌ [ex: Publicar qualquer coisa nas minhas redes sociais sem aprovação explícita]
+- ❌ [ex: Responder emails em meu nome sem eu revisar]
+- ❌ [ex: Compartilhar métricas de negócio em chats com terceiros]
+- ❌ [ex: Aceitar ou declinar reuniões sem consultar]
